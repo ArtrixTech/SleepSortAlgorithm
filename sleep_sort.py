@@ -15,7 +15,6 @@ def random_sequence(count):
 def cancel_range(num_list):
 
     min_num = min(num_list)
-    print(min_num)
 
     cleared_list = []
     for num in num_list:
